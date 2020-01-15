@@ -1,0 +1,28 @@
+vi:
+  layouts:
+    rails: Ứng Dụng Mẫu Ruby on Rails
+    en: Tiếng Anh
+    vi: Tiếng Việt
+  static_pages:
+    home:
+      title: Trang Chủ
+      content1: Sample App
+      content2: Đây là trang chủ cho
+      content3: Hướng dẫn về Ruby on Rails
+      content4: ứng dụng mẫu.
+    help:
+      title: Trợ Giúp
+      content1: Tìm trợ giúp về hướng dẫn về Ruby on Rails tại
+      content2: Trang trợ giúp Ruby on Rails
+      content3: . Để nhận trợ giúp về ứng dụng mẫu này, hãy xem
+      content4: sách hướng dẫn Ruby on Rails
+    about:
+      title: Giới thiệu
+      content1: Hướng dẫn về Ruby on Rails
+      content2: là một
+      content3: cuốn sách
+      content4: và
+      content5: loạt screencast
+      content6: dậy xây dựng website với
+      content7: Ruby on Rails
+      content8: Đây là ứng dụng mẫu cho bài hướng dẫn.
