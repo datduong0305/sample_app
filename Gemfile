@@ -42,4 +42,7 @@ group :development, :test do
   gem "rubocop-rails", "~> 2.3.2", require: false
 end
 
+gem "config"
+gem "rails-i18n"
+
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
